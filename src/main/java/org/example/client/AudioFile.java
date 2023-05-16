@@ -1,9 +1,11 @@
 package org.example.client;
 import com.sumasoft.stt.audio.AcceptStream;
+import org.json.JSONObject;
 
 import javax.sound.sampled.*;
 import java.io.File;
 import java.io.IOException;
+import java.net.URI;
 
 /**
  * Read the Audio file(.wav) and send to ASR(SDK)
@@ -17,12 +19,14 @@ public class AudioFile {
      * AcceptStream is class which contains acceptStream() method
      * which will accept streaming audio data and send to vosk server 
      */
-    AcceptStream acceptStream;
-    
+    Client client;
+
     int sampleRate;
 
-    public AudioFile() throws Exception {
+    public AudioFile(URI uri) throws Exception {
+        this.client=new Client(uri);
     }
+
 
     /**
      * send audiostreaming data to library
@@ -34,7 +38,7 @@ public class AudioFile {
             AudioInputStream audioInputStream = null;
             try {
                 audioInputStream = AudioSystem.getAudioInputStream(new File(wavFilePath));
-          
+
             } catch (UnsupportedAudioFileException ex) {
                 throw new RuntimeException(ex);
             } catch (IOException ex) {
@@ -46,7 +50,6 @@ public class AudioFile {
             // Get the audio format from the file
             AudioFormat audioFormat = audioInputStream.getFormat();
             sampleRate= (int) audioFormat.getSampleRate();
-            this.acceptStream=new AcceptStream(sampleRate);
 
             // Open the audio line for playback
             SourceDataLine line = AudioSystem.getSourceDataLine(audioFormat);
@@ -55,12 +58,21 @@ public class AudioFile {
             // Start playback
             line.start();
 
+            this.client.connectBlocking();
+            System.out.println("client server connection established");
+
+            JSONObject outer=new JSONObject();
+            JSONObject conf=new JSONObject();
+            outer.put("config",conf.put("sample_rate",sampleRate));
+            //  outer.put("config",conf.put("num_channels", 1));
+            client.send(outer.toString());
+
             // Read audio data from the file and play it back
             byte[] buffer = new byte[4096];
             int bytesRead;
             while ((bytesRead = audioInputStream.read(buffer)) != -1) {
                 line.write(buffer, 0, bytesRead);
-                acceptStream.acceptStream(buffer);
+                client.send(buffer);
             }
 
             // Wait for playback to complete
