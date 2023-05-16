@@ -1,7 +1,6 @@
 package org.example.client;
 
 import com.sumasoft.stt.client.AudioVoskClient;
-import org.java_websocket.client.WebSocketClient;
 import org.java_websocket.handshake.ServerHandshake;
 
 import java.net.URI;

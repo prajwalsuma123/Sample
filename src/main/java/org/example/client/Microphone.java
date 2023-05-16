@@ -22,11 +22,6 @@ public class Microphone {
 
     public TargetDataLine microphone;
 
-    /**
-     * AcceptStream is class which contains acceptStream() method
-     * which will accept streaming audio data and send to vosk server 
-     */
-    AcceptStream acceptStream=new AcceptStream((int)sampleRate);
 
     public Microphone(URI uri) throws Exception {
         this.client=new Client(uri);

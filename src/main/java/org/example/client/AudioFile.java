@@ -15,10 +15,6 @@ public class AudioFile {
 
     public String wavFilePath = "/home/prajwal.sonawane/Desktop/shivaji.wav";
 
-    /**
-     * AcceptStream is class which contains acceptStream() method
-     * which will accept streaming audio data and send to vosk server 
-     */
     Client client;
 
     int sampleRate;
