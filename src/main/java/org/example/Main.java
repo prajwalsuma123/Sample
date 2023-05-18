@@ -14,30 +14,16 @@ import java.net.URI;
  * 2. for Audio file just comment Microphone code.
  */
 public class Main {
-
-
+    
     public static void main(String[] args) throws Exception {
-        String serveruri=null;
         System.out.println(System.getProperty("os.name"));
         System.out.println(System.getProperty("java.version"));
+        
+//        Microphone microphone=new Microphone();
+//        microphone.startMicrophone();
 
-        ObjectMapper objectMapper = new ObjectMapper();
-        File jsonFile=new File("/home/prajwal.sonawane/Desktop/Sample/config.json");
-        JsonNode rootNode = objectMapper.readTree(jsonFile);
-
-        JsonNode arrayNode = rootNode.get("Server");
-        for (JsonNode objNode : arrayNode) {
-            serveruri= String.valueOf(objNode.get("URI"));
-        }
-        serveruri=serveruri.replace("\"", "");
-
-        URI uri=(new URI(serveruri));
-
-        Microphone microphone=new Microphone(uri);
-        microphone.startMicrophone();
-
-//        AudioFile file=new AudioFile(uri);
-//        file.sendAudio();
+        AudioFile file=new AudioFile();
+        file.sendAudio();
 
     }
 }

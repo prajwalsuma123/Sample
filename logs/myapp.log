@@ -1,0 +1,678 @@
+2023-05-18 10:25:32.713 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Connection established
+2023-05-18 10:25:32.717 [main] INFO  com.sumasoft.stt.audio.AcceptAudio - Client & Server connected sucessfully
+2023-05-18 10:25:32.813 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:32.813 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:32.867 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:33.095 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:33.295 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:33.364 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:33.392 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:33.544 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:33.681 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:33.749 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:33.853 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:34.032 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:34.205 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:34.276 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:34.393 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:34.531 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:34.598 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:34.753 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:34.933 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:34.988 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:35.132 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:35.271 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:35.472 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:35.565 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:35.618 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:35.829 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:36.005 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:36.005 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:36.216 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:36.368 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:36.467 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:36.651 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:36.750 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:36.905 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:36.960 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:37.104 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:37.222 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:37.359 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:37.413 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:37.625 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "also read"
+}
+2023-05-18 10:25:37.719 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "also read"
+}
+2023-05-18 10:25:37.841 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "also referred"
+}
+2023-05-18 10:25:37.977 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "also referred"
+}
+2023-05-18 10:25:38.142 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "also referred"
+}
+2023-05-18 10:25:38.212 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "also referred"
+}
+2023-05-18 10:25:38.336 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "also referred"
+}
+2023-05-18 10:25:38.477 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "also referred"
+}
+2023-05-18 10:25:38.541 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "also referred"
+}
+2023-05-18 10:25:38.756 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "also referred"
+}
+2023-05-18 10:25:39.003 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "also referred"
+}
+2023-05-18 10:25:39.203 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "result" : [{
+      "conf" : 0.979836,
+      "end" : 4.710006,
+      "start" : 4.260000,
+      "word" : "also"
+    }, {
+      "conf" : 0.792819,
+      "end" : 5.099947,
+      "start" : 4.710006,
+      "word" : "referred"
+    }, {
+      "conf" : 0.476943,
+      "end" : 5.580000,
+      "start" : 5.100131,
+      "word" : "as"
+    }],
+  "text" : "also referred as"
+}
+2023-05-18 10:25:39.259 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:39.330 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:39.357 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:39.438 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:39.604 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:39.800 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:39.961 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:40.057 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:40.151 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:40.313 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:40.410 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:40.464 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:40.699 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:40.849 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:40.986 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "was"
+}
+2023-05-18 10:25:41.050 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "was"
+}
+2023-05-18 10:25:41.208 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was"
+}
+2023-05-18 10:25:41.254 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was"
+}
+2023-05-18 10:25:41.415 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born"
+}
+2023-05-18 10:25:41.803 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born"
+}
+2023-05-18 10:25:41.804 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born"
+}
+2023-05-18 10:25:41.804 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born"
+}
+2023-05-18 10:25:41.932 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born"
+}
+2023-05-18 10:25:42.094 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born"
+}
+2023-05-18 10:25:42.164 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born"
+}
+2023-05-18 10:25:42.288 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and"
+}
+2023-05-18 10:25:42.453 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and"
+}
+2023-05-18 10:25:42.648 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and"
+}
+2023-05-18 10:25:42.689 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and"
+}
+2023-05-18 10:25:42.829 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and"
+}
+2023-05-18 10:25:43.005 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and"
+}
+2023-05-18 10:25:43.210 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler"
+}
+2023-05-18 10:25:43.211 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler"
+}
+2023-05-18 10:25:43.370 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler"
+}
+2023-05-18 10:25:43.551 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler"
+}
+2023-05-18 10:25:43.647 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler"
+}
+2023-05-18 10:25:43.725 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler"
+}
+2023-05-18 10:25:43.878 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler and"
+}
+2023-05-18 10:25:43.977 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler and"
+}
+2023-05-18 10:25:44.080 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler and"
+}
+2023-05-18 10:25:44.261 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler and member of"
+}
+2023-05-18 10:25:44.440 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler and member of"
+}
+2023-05-18 10:25:44.491 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler and member of"
+}
+2023-05-18 10:25:44.620 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler and member of"
+}
+2023-05-18 10:25:44.764 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler and member of"
+}
+2023-05-18 10:25:44.828 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler and member of"
+}
+2023-05-18 10:25:44.989 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler and member of both"
+}
+2023-05-18 10:25:45.160 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler and member of both"
+}
+2023-05-18 10:25:45.341 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler and member of"
+}
+2023-05-18 10:25:45.378 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler and member of"
+}
+2023-05-18 10:25:45.520 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler and member of"
+}
+2023-05-18 10:25:45.658 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was born and indian ruler and member of"
+}
+2023-05-18 10:25:45.803 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "result" : [{
+      "conf" : 0.392075,
+      "end" : 6.720387,
+      "start" : 6.570523,
+      "word" : "she"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.129274,
+      "start" : 7.799363,
+      "word" : "was"
+    }, {
+      "conf" : 0.999946,
+      "end" : 8.700000,
+      "start" : 8.130000,
+      "word" : "born"
+    }, {
+      "conf" : 0.945714,
+      "end" : 9.390000,
+      "start" : 9.120000,
+      "word" : "an"
+    }, {
+      "conf" : 0.999939,
+      "end" : 9.810000,
+      "start" : 9.390428,
+      "word" : "indian"
+    }, {
+      "conf" : 0.982826,
+      "end" : 10.350000,
+      "start" : 9.810000,
+      "word" : "ruler"
+    }, {
+      "conf" : 0.994904,
+      "end" : 10.920920,
+      "start" : 10.650000,
+      "word" : "and"
+    }, {
+      "conf" : 0.825651,
+      "end" : 10.979335,
+      "start" : 10.920920,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 11.370000,
+      "start" : 10.979335,
+      "word" : "member"
+    }, {
+      "conf" : 1.000000,
+      "end" : 11.729980,
+      "start" : 11.370000,
+      "word" : "of"
+    }, {
+      "conf" : 0.559677,
+      "end" : 12.270000,
+      "start" : 11.910000,
+      "word" : "both"
+    }],
+  "text" : "she was born an indian ruler and a member of both"
+}
+2023-05-18 10:25:45.872 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:46.188 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:46.319 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:46.376 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:46.651 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:46.651 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:46.736 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:46.805 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:46.968 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:47.136 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:47.217 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:47.316 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:47.552 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:47.553 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:47.701 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:47.887 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out"
+}
+2023-05-18 10:25:48.028 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out"
+}
+2023-05-18 10:25:48.103 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out"
+}
+2023-05-18 10:25:48.213 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out"
+}
+2023-05-18 10:25:48.377 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out"
+}
+2023-05-18 10:25:48.445 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out"
+}
+2023-05-18 10:25:48.573 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out it"
+}
+2023-05-18 10:25:48.711 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out it"
+}
+2023-05-18 10:25:49.070 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out"
+}
+2023-05-18 10:25:49.161 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out"
+}
+2023-05-18 10:25:49.238 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own"
+}
+2023-05-18 10:25:49.239 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own"
+}
+2023-05-18 10:25:49.372 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own"
+}
+2023-05-18 10:25:49.481 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own"
+}
+2023-05-18 10:25:49.656 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own"
+}
+2023-05-18 10:25:49.711 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent"
+}
+2023-05-18 10:25:49.829 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent"
+}
+2023-05-18 10:25:50.026 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent"
+}
+2023-05-18 10:25:50.197 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent"
+}
+2023-05-18 10:25:50.257 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom"
+}
+2023-05-18 10:25:50.372 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom"
+}
+2023-05-18 10:25:50.509 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom"
+}
+2023-05-18 10:25:50.604 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom"
+}
+2023-05-18 10:25:50.734 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from"
+}
+2023-05-18 10:25:50.865 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from"
+}
+2023-05-18 10:25:51.088 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from"
+}
+2023-05-18 10:25:51.128 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from"
+}
+2023-05-18 10:25:51.269 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from"
+}
+2023-05-18 10:25:51.397 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from"
+}
+2023-05-18 10:25:51.547 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from"
+}
+2023-05-18 10:25:51.640 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from from the"
+}
+2023-05-18 10:25:51.809 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from from the"
+}
+2023-05-18 10:25:51.985 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from from the"
+}
+2023-05-18 10:25:52.265 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from from the"
+}
+2023-05-18 10:25:52.266 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from from the"
+}
+2023-05-18 10:25:52.391 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from from the"
+}
+2023-05-18 10:25:52.446 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from from the declining"
+}
+2023-05-18 10:25:52.519 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from from the declining"
+}
+2023-05-18 10:25:52.731 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from from the declining"
+}
+2023-05-18 10:25:52.910 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from from the declining"
+}
+2023-05-18 10:25:53.071 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from from the declining"
+}
+2023-05-18 10:25:53.125 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from from the declining"
+}
+2023-05-18 10:25:53.338 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from from the declining"
+}
+2023-05-18 10:25:53.365 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from from the declining"
+}
+2023-05-18 10:25:53.467 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "she was carried out its own independent kingdom from from the declining"
+}
+2023-05-18 10:25:53.676 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "result" : [{
+      "conf" : 0.398173,
+      "end" : 13.290000,
+      "start" : 12.960000,
+      "word" : "clan"
+    }, {
+      "conf" : 1.000000,
+      "end" : 15.000000,
+      "start" : 14.670000,
+      "word" : "carried"
+    }, {
+      "conf" : 1.000000,
+      "end" : 15.390000,
+      "start" : 15.000000,
+      "word" : "out"
+    }, {
+      "conf" : 0.979124,
+      "end" : 15.780000,
+      "start" : 15.450000,
+      "word" : "its"
+    }, {
+      "conf" : 0.997345,
+      "end" : 16.200000,
+      "start" : 15.840000,
+      "word" : "own"
+    }, {
+      "conf" : 0.990351,
+      "end" : 16.980000,
+      "start" : 16.230000,
+      "word" : "independent"
+    }, {
+      "conf" : 0.979408,
+      "end" : 17.520000,
+      "start" : 16.980000,
+      "word" : "kingdom"
+    }, {
+      "conf" : 0.930036,
+      "end" : 18.240000,
+      "start" : 17.790000,
+      "word" : "from"
+    }, {
+      "conf" : 1.000000,
+      "end" : 18.870000,
+      "start" : 18.600000,
+      "word" : "from"
+    }, {
+      "conf" : 1.000000,
+      "end" : 18.960000,
+      "start" : 18.870000,
+      "word" : "the"
+    }, {
+      "conf" : 1.000000,
+      "end" : 19.740000,
+      "start" : 18.960000,
+      "word" : "declining"
+    }, {
+      "conf" : 0.989865,
+      "end" : 20.880000,
+      "start" : 20.250000,
+      "word" : "adilshahi"
+    }],
+  "text" : "clan carried out its own independent kingdom from from the declining adilshahi"
+}
+2023-05-18 10:25:53.722 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:53.824 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:53.956 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:54.111 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:54.138 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:54.312 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:54.500 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : ""
+}
+2023-05-18 10:25:54.703 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "sultan"
+}
+2023-05-18 10:25:54.730 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "sultan"
+}
+2023-05-18 10:25:54.852 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "sultan"
+}
+2023-05-18 10:25:54.991 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "sultan"
+}
+2023-05-18 10:25:55.051 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "sultan it"
+}
+2023-05-18 10:25:55.208 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "sultan it"
+}
+2023-05-18 10:25:55.415 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "sultanate of"
+}
+2023-05-18 10:25:55.573 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "sultanate of"
+}
+2023-05-18 10:25:55.620 [WebSocketConnectReadThread-12] INFO  com.sumasoft.stt.client.AudioClient - Message recived from server :{
+  "partial" : "sultanate of"
+}

@@ -1,5 +1,5 @@
 package org.example.client;
-import com.sumasoft.stt.audio.AcceptStream;
+import com.sumasoft.stt.audio.AcceptAudio;
 import org.json.JSONObject;
 
 import javax.sound.sampled.*;
@@ -14,13 +14,10 @@ import java.net.URI;
 public class AudioFile {
 
     public String wavFilePath = "/home/prajwal.sonawane/Desktop/shivaji.wav";
-
-    Client client;
-
+    public AcceptAudio acceptAudio;
     int sampleRate;
 
-    public AudioFile(URI uri) throws Exception {
-        this.client=new Client(uri);
+    public AudioFile() throws Exception {
     }
 
 
@@ -54,21 +51,16 @@ public class AudioFile {
             // Start playback
             line.start();
 
-            this.client.connectBlocking();
             System.out.println("client server connection established");
 
-            JSONObject outer=new JSONObject();
-            JSONObject conf=new JSONObject();
-            outer.put("config",conf.put("sample_rate",sampleRate));
-            //  outer.put("config",conf.put("num_channels", 1));
-            client.send(outer.toString());
+            this.acceptAudio=new AcceptAudio(sampleRate);
 
             // Read audio data from the file and play it back
             byte[] buffer = new byte[4096];
             int bytesRead;
             while ((bytesRead = audioInputStream.read(buffer)) != -1) {
                 line.write(buffer, 0, bytesRead);
-                client.send(buffer);
+                acceptAudio.send(buffer);
             }
 
             // Wait for playback to complete
