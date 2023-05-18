@@ -3,6 +3,11 @@
 # Description
 - Sample code to access Speech-to-Text service
 
+# Prerequisites
+- Java 8 or above
+- Intellij IDEA
+- Make sure you are connected with VPN
+
 # How to download and run
 - Clone git repository.
 - Open Sample code in any IDEA.
